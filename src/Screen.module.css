@@ -1,0 +1,9 @@
+.stopCounting {
+    color: red;
+    font-size: larger;
+}
+.screen input{
+    text-align: center;
+    height: 30px;
+    width: 150px;
+}
